@@ -29,7 +29,7 @@ function AppContent() {
         },
       ]}>
       <Text style={styles.text}>
-        Hello RN 0.85
+        Hello RN 0.852
       </Text>
     </View>
   );
