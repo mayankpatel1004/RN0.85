@@ -1,0 +1,33 @@
+Steps to create react native project. Project Name : "ReactNativePHPMysqlDemo"
+
+1) Stack Navigation
+2) Drawer Navigation
+3) Redux
+4) Splash Screen
+5) Login Screen using react-native-paper.
+6) Home Screen.
+7) About Screen.
+8) Users List Screen. List should be infinite scroll. Pagination wise . (Use sample api's for fetching data).
+9) User Add form. (Use api for saving data)
+
+Also implement below with above functionality 
+
+JWT Login
+PHP MySQL Backend
+AsyncStorage Login Session
+Dark Theme
+Pull To Refresh
+Search Users
+Form Validation
+Environment Variables
+Axios Interceptors
+Reusable Components
+TypeScript
+React Query
+Offline Storage
+Loader Component
+Toast Messages
+
+
+Please use json placeholder apis for real fetching and push data to db example. Everything should be in latest version. app file should be App.tsx
+Please write steps to do above. Please use react-native latest version.
